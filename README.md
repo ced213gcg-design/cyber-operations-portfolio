@@ -1,28 +1,47 @@
 # Cyber Operations Portfolio
 
+## Author
+Cedrick Green
+
+## Target Role
+Entry-Level Cybersecurity Analyst / SOC Analyst
+
 ## Overview
-Hands-on cybersecurity labs demonstrating reconnaissance, vulnerability scanning, and documentation workflows.
+This repository documents hands-on cybersecurity lab exercises performed in a Linux environment using industry-recognized tools for reconnaissance, service enumeration, vulnerability assessment, and structured reporting.
 
 ## Tools Used
 - Nmap
 - Nikto
-- Linux
 - Git
-- Bash
+- GitHub
+- Linux Terminal
 
-## Lab Structure
+## Portfolio Structure
 
-Reconnaissance
-- scans/nmap_scan1.txt
+### Reconnaissance
+- `scans/nmap_scan1.txt`
 
-Web Vulnerability Scanning
-- vulnerability_scans/nikto_scan1.txt
+### Service Enumeration
+- `scans/service_scan1.txt`
 
-Reports
-- reports/lab_index.md
+### Vulnerability Scanning
+- `vulnerability_scans/nikto_scan1.txt`
+
+### Reporting
+- `reports/lab_index.md`
 
 ## Skills Demonstrated
-- Network scanning
+- Network reconnaissance
+- Port scanning
+- Service detection
 - Web vulnerability analysis
-- Linux command-line operations
+- Linux command-line workflow
 - Git version control
+- Security documentation
+
+## Objective
+This portfolio is designed to demonstrate practical cybersecurity workflow and readiness for analyst-level responsibilities in security operations and defensive security environments.
+
+## Status
+Active and expanding
+
