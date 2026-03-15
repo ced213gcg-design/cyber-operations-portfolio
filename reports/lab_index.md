@@ -34,3 +34,25 @@ On Sun, Mar 15, 2026 at 8:03 AM Cedrick Green <ced213g.cg@gmail.com> wrote:
 
 ## Purpose
 This repository documents authorized cybersecurity lab exercises, reconnaissance practice, and defensive skill development.
+## HTTP Header Analysis
+
+Tool Used:
+curl
+
+Command Executed:
+curl -I http://scanme.nmap.org > notes/http_headers_scanme.txt
+
+Purpose:
+Capture HTTP response headers from the server to analyze basic web service information and identify exposed server details.
+
+Findings:
+- HTTP response headers successfully collected
+- Server header revealed Apache httpd
+- Connection and content behavior visible
+- Useful for reconnaissance and web security review
+
+Skills Demonstrated:
+- HTTP header inspection
+- Web reconnaissance
+- Linux command line workflow
+- Security documentation
