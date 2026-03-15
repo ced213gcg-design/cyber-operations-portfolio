@@ -1,18 +1,31 @@
 # Cyber Operations Portfolio
 
-Author: Cedrick Green
+## Author
+Cedrick Green
 
-This repository documents cybersecurity labs, scans, and defensive research performed through the Freedom Architect Cyber Command environment.
+## Focus
+Hands-on cybersecurity lab development using Linux, GitHub, and network reconnaissance tooling.
 
-## Projects
-- Nmap reconnaissance
-- Network enumeration
-- Defensive security analysis
+## Current Lab Areas
+- Service and version detection
+- Host discovery
+- Lab reporting and documentation
+- Structured cybersecurity portfolio building
+
+## Completed Artifacts
+- `scans/nmap_scan1.txt`
+- `network_scans/host_discovery1.txt`
+- `reports/lab_index.md`
 
 ## Tools Used
 - Nmap
-- Python
-- Linux security tools
+- Git
+- GitHub
+- Linux terminal
+- Zsh
 
-## Environment
-Freedom Architect Cyber Command Console
+## Objective
+This repository documents authorized cybersecurity lab exercises, reconnaissance practice, reporting structure, and portfolio development for entry-level cybersecurity opportunities.
+
+## Status
+Active and expanding
