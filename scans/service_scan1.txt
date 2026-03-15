@@ -1,0 +1,1 @@
+# Nmap 7.93 scan initiated Sun Mar 15 14:02:55 2026 as: nmap -sV -oN service_scan1.txt scanme.nmap.org
