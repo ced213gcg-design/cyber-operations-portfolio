@@ -1,31 +1,28 @@
 # Cyber Operations Portfolio
 
-## Author
-Cedrick Green
-
-## Focus
-Hands-on cybersecurity lab development using Linux, GitHub, and network reconnaissance tooling.
-
-## Current Lab Areas
-- Service and version detection
-- Host discovery
-- Lab reporting and documentation
-- Structured cybersecurity portfolio building
-
-## Completed Artifacts
-- `scans/nmap_scan1.txt`
-- `network_scans/host_discovery1.txt`
-- `reports/lab_index.md`
+## Overview
+Hands-on cybersecurity labs demonstrating reconnaissance, vulnerability scanning, and documentation workflows.
 
 ## Tools Used
 - Nmap
+- Nikto
+- Linux
 - Git
-- GitHub
-- Linux terminal
-- Zsh
+- Bash
 
-## Objective
-This repository documents authorized cybersecurity lab exercises, reconnaissance practice, reporting structure, and portfolio development for entry-level cybersecurity opportunities.
+## Lab Structure
 
-## Status
-Active and expanding
+Reconnaissance
+- scans/nmap_scan1.txt
+
+Web Vulnerability Scanning
+- vulnerability_scans/nikto_scan1.txt
+
+Reports
+- reports/lab_index.md
+
+## Skills Demonstrated
+- Network scanning
+- Web vulnerability analysis
+- Linux command-line operations
+- Git version control
