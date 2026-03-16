@@ -58,6 +58,8 @@ Skills Demonstrated:
 - Security documentation
 - SOC Investigation Lab
 - Log Analysis Lab — reports/log_analysis_lab.md
+- Log Analysis Lab — reports/log_analysis_lab.md
+
 
 
 
