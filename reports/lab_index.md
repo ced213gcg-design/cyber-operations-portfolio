@@ -57,5 +57,7 @@ Skills Demonstrated:
 - Linux command line workflow
 - Security documentation
 - SOC Investigation Lab
- — reports/soc_investigation_lab.md
+- Log Analysis Lab — reports/log_analysis_lab.md
+
+
 
