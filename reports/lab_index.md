@@ -56,3 +56,6 @@ Skills Demonstrated:
 - Web reconnaissance
 - Linux command line workflow
 - Security documentation
+- SOC Investigation Lab
+ — reports/soc_investigation_lab.md
+
