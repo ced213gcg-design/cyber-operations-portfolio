@@ -107,4 +107,4 @@ To build secure systems, develop disciplined minds, and create pathways for fina
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR-USERNAME
+- LinkedIn: https://linkedin.com/in/CedrickGreen
